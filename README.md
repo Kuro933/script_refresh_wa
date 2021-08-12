@@ -1,5 +1,6 @@
 # script_refresh_wa
 
+**Pasos para comenzar**
 ```
 1- git clone https://github.com/Kuro933/script_refresh_wa.git
 2- abrir una terminal y ejecutar python -m venv venv esto creara una carpeta llamada venv
