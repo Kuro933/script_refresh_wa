@@ -11,3 +11,7 @@ de esta forma se instalara todas las librerias y dependencias que se necesitan p
 En una tarminal con el entorno virtual de python ejecutar contactos.py
 el proyecto este tiene la funcionalidad de API, interactua con llamadas a sus "@app.route"
 de esta forma puede ser utilizado desde distintos tipos de aplicaciones externas
+
+```mermaid
+sequenceDiagram
+Front ->> API: /enviar
