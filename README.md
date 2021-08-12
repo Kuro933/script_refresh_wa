@@ -13,11 +13,11 @@ de esta forma se instalara todas las librerias y dependencias que se necesitan p
 En una tarminal si no estas ya en el venv realizar lo siguiente
 ```
 1- .\venv\Script\activate
-2- .\contactos.py
+2- python contactos.py
 ```
 si ya estas dentro del venv
 ```
-.\contactos.py
+python contactos.py
 ```
 con el entorno virtual de python ejecutar contactos.py
 el proyecto este tiene la funcionalidad de API, interactua con llamadas a sus "@app.route"
