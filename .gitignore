@@ -1,4 +1,5 @@
 node_modules
 venv
-token.json  
-_pycache_
+token.json
+__pycache__
+.vscode
