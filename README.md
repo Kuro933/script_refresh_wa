@@ -22,3 +22,9 @@ python contactos.py
 con el entorno virtual de python ejecutar contactos.py
 el proyecto este tiene la funcionalidad de API, interactua con llamadas a sus "@app.route"
 de esta forma puede ser utilizado desde distintos tipos de aplicaciones externas
+
+
+# Importante
+Tener en cuenta que para que funcione la API de google, se debe crear en cloud google con una cuenta asociadada a un celular
+una API y crear el cliente para que tenga acceso, una vez hecho esto, te dejara bajar las credenciales en un json, el cual
+una vez descargado cambiarle el nombre por credentials.json y dejarlo en la carpeta del proyecto
