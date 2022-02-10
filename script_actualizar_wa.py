@@ -4,7 +4,6 @@ from os import system
 import subprocess
 import test as t
 
-cmd = "cd C:\\Users\\gonzalezf\\Downloads\\scrcpy-win64-v1.16\\ && scrcpy --fullscreen --"
 # tener en cuenta que el celular debe estar enchufado por usb
 # y estar con scrcpy en pantalla completa con el comando scrcpy --fullscreen
 # tambien si estas usando windowns debes activar el venv
